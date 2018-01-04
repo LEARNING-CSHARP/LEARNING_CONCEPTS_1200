@@ -9,13 +9,13 @@
 
 		private void MainForm_Load(object sender, System.EventArgs e)
 		{
-			//Father oFather = new Father();
+			//Father father = new Father();
 
-			//oFather.Work();
+			//father.Work();
 
-			Son oSon = new Son();
+			Son son = new Son();
 
-			oSon.Work();
+			son.Work();
 		}
 	}
 }
